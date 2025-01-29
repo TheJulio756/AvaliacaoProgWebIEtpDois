@@ -1,0 +1,29 @@
+#principal{
+    margin: auto;
+    width: 100%;
+}
+nav{
+    display: flex;
+    justify-content: end;
+    background-color: blue;
+}
+nav ul li{
+    display: inline-block;
+}
+nav li a{
+    display: block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-family: Verdana;
+    font-size: 15px;
+}
+#principal img{
+    padding-top: 10px;
+    
+}
+#principal h1{
+    color: cornflowerblue;
+    font-family: Verdana;
+    padding-left: 40%;
+}
